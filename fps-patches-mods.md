@@ -26,7 +26,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 ### 60FPS & Resolution Patches
 
-* Start by loading GoldHEN 2.3 or newer on your PS4.
+* Start by loading [GoldHEN 2.3](/fresh-start-jailbreak) or newer on your PS4.
 * Download the app GoldHEN Cheats Manager from the [Release Page](https://github.com/GoldHEN/GoldHEN_Cheat_Manager/releases/latest).
 * Copy it to the root of your USB drive and install it from the PS4 Package Installer.
 * Once the application is installed, download the plugins from the GoldHEN Plugins Repository [Releases Page](https://github.com/GoldHEN/GoldHEN_Plugins_Repository/releases/latest).
