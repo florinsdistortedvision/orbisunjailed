@@ -32,7 +32,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 * Once the application is installed, download the plugins from the GoldHEN Plugins Repository [Releases Page](https://github.com/GoldHEN/GoldHEN_Plugins_Repository/releases/latest).
 * Using a FTP client, copy the plugin files to `/data/GoldHEN/plugins`.
 * Make a text file called `plugins.ini` if it does not exist, add the following to the file, if the line `[default]` already exist, just add `/data/GoldHEN/plugins/game_patch.prx` to the line below it.
-```ini
+```
 [default]
 /data/GoldHEN/plugins/game_patch.prx
 ```
