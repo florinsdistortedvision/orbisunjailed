@@ -26,12 +26,16 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 ### 60FPS & Resolution Patches
 
-* Start by loading [GoldHEN 2.3](/fresh-start-jailbreak) or newer on your PS4.
+* Start by loading [GoldHEN 2.3](/orbisunjailed/fresh-start-jailbreak) or newer on your PS4.
 * Download the app GoldHEN Cheats Manager from the [Release Page](https://github.com/GoldHEN/GoldHEN_Cheat_Manager/releases/latest).
 * Copy it to the root of your USB drive and install it from the PS4 Package Installer.
 * Once the application is installed, download the plugins from the GoldHEN Plugins Repository [Releases Page](https://github.com/GoldHEN/GoldHEN_Plugins_Repository/releases/latest).
 * Using a FTP client, copy the plugin files to `/data/GoldHEN/plugins`.
 * Make a text file called `plugins.ini` if it does not exist, add the following to the file, if the line `[default]` already exist, just add `/data/GoldHEN/plugins/game_patch.prx` to the line below it.
+```ini
+[default]
+/data/GoldHEN/plugins/game_patch.prx
+```
 * Update the database using the GoldHEN Cheats Manager app and you can now start using Custom Game Patches without needing a computer after the setup!
 
 ### Other mods
