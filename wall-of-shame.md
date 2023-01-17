@@ -27,6 +27,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 * **Nightking (SALT / salt13939424 / nightking_host)** - demanding pay for free homebrew / selling pirated games / selling fpkg PS2 games / adding leaked/untested versions of GoldHEN that were not authorized by the creators / risk of software bricking
 * **Whispersintheb1 / Umar** - fake online jailbreak claim
 * **Andrew2007** - fake online access claim while jailbroken / clickbait / selling modded accounts of various games
+* **DeveloperPS5/developer85** - fake "Dev", fake announcement of PS4/5 jailbreaks
 * **Macedo** - adding leaked/untested versions of GoldHEN that were not authorized by the creators / risk of software bricking
 * **GamerHack** - adding leaked/untested versions of GoldHEN that were not authorized by the creators / risk of software bricking
 * **PS4 EXPLOIT SERIES** - fake kernel exploit claims / fake jailbreak / fake forum site / fake tools / survey/password scam
