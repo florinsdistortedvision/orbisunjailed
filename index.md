@@ -11,7 +11,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "hacks-homebrew.md", title: "Hacks & Homebrew"}
 ---
 
-## Welcome to Orbis Unjailed! Your 2022 Up-To-Date PS4 Jailbreak Wiki!
+## Welcome to Orbis Unjailed! Your 2023 Up-To-Date PS4 Jailbreak Wiki!
 
 Here you can find everything you need when jailbreaking and beyond! You can expect:
  * A short about and general terms explanations to keep you up to date to jailbroken lingo.
