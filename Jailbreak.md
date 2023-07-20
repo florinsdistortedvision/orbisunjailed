@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 Jailbreaking on the PS4 will never happen on the latest firmware! A quick reason is to avoid perhaps millions of console and account bans, online cheaters and everything else that can ruin other people&#39;s fun (which is a lesson learned from the PS3). Below you can find quick info on what firmware should I be on before attempting anything (this will get updated as soon as Sony releases a new firmware and when hackers release a new jailbreak for newer firmwares):
 
 <pre>
-<strong>Latest firmware (unexploited / cannot be jailbroken): 10.50.</strong>
+<strong>Latest firmware (unexploited / cannot be jailbroken): 10.70.</strong>
 <strong>Latest exploited firmware (can be jailbroken): 9.00 (and everything lower).</strong>
 </pre>
 
