@@ -75,7 +75,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 * With the release of PSP Classics on PS Plus, new emulators have been developed by Sony.
 * Before attempting, check compatibility list here (if a game is not on the list, feel free to test it):
 <a href="https://www.psx-place.com/threads/psp-fpkg-v1-0-1-play-psp-games-with-the-ps-plus-emulator.37947/"> PSP Compatibility List </a>
-* Download and extract PSP HD GUI:
+* Download and extract PSP-FPKG:
    * <a href="https://www.psx-place.com/threads/psp-fpkg-v1-0-1-play-psp-games-with-the-ps-plus-emulator.37947/"> PSP-FPKG v1.0.1 </a>
 * Download your favourite PSP rom. Make sure it is either in a .ISO file format.
 * Launch PSP-FPKG v1.0.1. In the Disc section select the .ISO file.
@@ -89,7 +89,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 ##### Fixing PSP Games
 
-* You might've noticed that the wiki has mentions for fixes or using different emus for PS2-FPKG.
+* You might've noticed that the wiki has mentions for fixes or using different emus for PSP-FPKG.
 * Fixes are found here:
    * <a href="https://www.psx-place.com/threads/psp-fpkg-psp-compatibility-on-ps4-user-submitted-test-results.37952/"> PSP Config Files </a>
    * Use search bar (must be signed-in), search for your game and make sure you check "In this thread only".
