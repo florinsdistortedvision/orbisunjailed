@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 * Emulators are applications that act/behave like a completely different system in order to play games released before / not natively made for PS4.
 * On the PS4, there are 2 types of emulators: official (either made by Sony or the company that made/owns the rights to the emulated console) and ports (fan-made emulators).
-* Officially the PS4 can emulate PS1, PS2, PSP (but the number of PSP games that work are very low) & Sega Saturn.
+* Officially the PS4 can emulate PS1, PS2, PSP & Sega Saturn.
 * Ports allow the PS4 to emulate MSDOS, NES, every GameBoy, MAME, Atari Lynx, Neo-Geo Pocket, SNES, VirtualBoy, WonderSwan, Nintendo 64, PS1, Sega Genesis/MegaDrive, Nintendo DS, FB Alpha Arcades, Capcom PS1,2 &3, MSX, NEC PC-FX, NEC PC Engine, Sega Saturn, Sega Dreamcast, old PC games, Atari 2600, Atari Jaguar, Vectrex, PSP, various ports, 3DO.
 
 ## Enough talk, let's start...
@@ -72,13 +72,13 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 #### PSP
 
-* Note that even though it is made by Sony, there are only a few games that can be played. Use RetroArch for better compatibility and speed.
+* With the release of PSP Classics on PS Plus, new emulators have been developed by Sony.
 * Before attempting, check compatibility list here (if a game is not on the list, feel free to test it):
-<a href="https://www.psdevwiki.com/ps4/PSP_Emulator_Compatibility_List"> PSP Compatibility List </a>
+<a href="https://www.psx-place.com/threads/psp-fpkg-v1-0-1-play-psp-games-with-the-ps-plus-emulator.37947/"> PSP Compatibility List </a>
 * Download and extract PSP HD GUI:
-   * <a href="https://github.com/xXxTheDarkprogramerxXx/PS3Tools/releases/tag/PSPHD1.0.0.0"> PSP HD GUI V.1.0 </a>
-* Download your favourite PSP rom. Make sure it is either in a .ISO, .CSO or .PBP file format.
-* Launch PSP HD GUI. In the Disc section select the .ISO, .CSO or .PBP file.
+   * <a href="https://www.psx-place.com/threads/psp-fpkg-v1-0-1-play-psp-games-with-the-ps-plus-emulator.37947/"> PSP-FPKG v1.0.1 </a>
+* Download your favourite PSP rom. Make sure it is either in a .ISO file format.
+* Launch PSP-FPKG v1.0.1. In the Disc section select the .ISO file.
 * Rename the tile if it hasn't updated to the game name. Add your own NP Title if it hasn't updated.
 * You can select a custom Icon & Background image to make it prettier on the homescreen and when you launch it.
    * Icon resolution must be 512x512
@@ -86,6 +86,17 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 * Select Create fPKG and wait until it's finished.
 * Add the created pkg to the root of a USB drive and install it on your PS4 by navigating to Settings > GoldHEN > Package Installer.
 * Done.
+
+##### Fixing PSP Games
+
+* You might've noticed that the wiki has mentions for fixes or using different emus for PS2-FPKG.
+* Fixes are found here:
+   * <a href="https://www.psx-place.com/threads/psp-fpkg-psp-compatibility-on-ps4-user-submitted-test-results.37952/"> PSP Config Files </a>
+   * Use search bar (must be signed-in), search for your game and make sure you check "In this thread only".
+   * You will find mentions of what emulator to use, and CLI + LUA fixes.
+   * CLI are .txt files and LUA are .lua files. Both can be done with any notepad editor (make sure you lua files aren't .lua.txt!)
+* PSPHD - Texture Dumping and Replacement can be found here:
+   * <a href="https://www.psx-place.com/threads/tutorial-psphd-texture-dumping-and-replacement.38771/"> PSPHD </a>
 
 #### SEGA SATURN
 
